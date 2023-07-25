@@ -16,6 +16,6 @@ Sorting visualizer is a web app for visualizing a bunch of different sorting alg
 ## BROWSER SUPPORT :man_technologist:
 
 Chrome, Firefox 3.5+, Safari 4+, Opera 10+, Internet Explorer 8+
-# sticky-notes
+
 <!--
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-kbc5fn)-->
