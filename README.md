@@ -33,7 +33,7 @@ Sorting visualizer is a web app for visualizing a bunch of different sorting alg
 
 ## Demo
 
-You can try out the Sorting Visualizer live [here](https://omgupta7352.github.io/draw-app/).
+You can try out the Sorting Visualizer live [here](https://omgupta7352.github.io/Sorting_visualizer/).
 
 ## Technologies Used
 
