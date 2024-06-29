@@ -7,6 +7,7 @@ Sorting visualizer is a web app for visualizing a bunch of different sorting alg
 ## Table of Contents
 - [Sorting Algorithm](#sorting-algorithm)
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -29,6 +30,10 @@ Sorting visualizer is a web app for visualizing a bunch of different sorting alg
 - Adjustable speed for visualizations.
 - Generate arrays of different sizes.
 - Responsive design for mobile and desktop use.
+
+## Demo
+
+You can try out the Sorting Visualizer live [here](https://omgupta7352.github.io/draw-app/).
 
 ## Technologies Used
 
