@@ -4,6 +4,15 @@
 
 Sorting visualizer is a web app for visualizing a bunch of different sorting algorithm with the functionality of speed and array size control along with complexity of algorithm (space and time).
 
+## Table of Contents
+- [Sorting Algorithm](#sorting-algorithm)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Sorting Algorithm :technologist:
 
  - Bubble Sorting
@@ -13,18 +22,6 @@ Sorting visualizer is a web app for visualizing a bunch of different sorting alg
  - Quick Sort
  - Heapify Sort
 
-# Sorting Visualizer
-
-The Sorting Visualizer is a web-based application that provides visualizations for various sorting algorithms. This project is built using HTML, CSS, and JavaScript.
-
-## Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -46,7 +43,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sorting_visualizer.git
+    git clone https://github.com/omgupta7352/Sorting_visualizer.git
     ```
 
 2. Navigate to the project directory:
@@ -89,7 +86,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 5. Open a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
